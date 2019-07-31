@@ -6,4 +6,4 @@ For numbers which are multiples of both 3 and 5, print "Linianos".
 
 But here's the catch: you can use only one `if`. No multiple branches, ternary operators or `else`.
 
-#Run this code on terminal in php interactive mode.
+# Run this code on terminal in php interactive mode.
